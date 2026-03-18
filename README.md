@@ -65,7 +65,7 @@ From the perspective of a regular smartphone user such as a college student, exp
 
 **prompt2**
 
-As a teacher, explain your experience using AI tools like ChatGPT and Google Classroom for preparing lessons and managing students.
+As a teacher, explain your experience using AI tools like ChatGPT and Google Classroom for preparing lessons and managingstudents.
 
 
 # output
